@@ -1,7 +1,7 @@
-# 🚀 Universal Fable 5 Engine System Prompt
+#  Universal Fable 5 Engine System Prompt
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![LLM Compatibility](https://img.shields.io/badge/Compatibility-Gemini%20%7C%20ChatGPT%20%7C%20Claude-blue)
+![LLM Compatibility](https://img.shields.io/badge/Compatibility-Gemini%20%7C%20ChatGPT%20%7C%20Claude-blueOther_models%20%7C%20)
 
 A high-performance, token-efficient distillation of the **leaked Claude Fable 5 / Mythos 5 system prompt** architecture. 
 
