@@ -3,6 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Compatibility](https://img.shields.io/badge/Compatibility-Claude%20%7C%20ChatGPT%20%7C%20Gemini%20%7C%20DeepSeek%20%7C%20Qwen-blue)
 
+[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md)
+
 A vendor-neutral adaptation of Anthropic's publicly available **Claude Fable 5 / Mythos 5** system prompt.
 
 The original prompt contains a large amount of infrastructure that exists specifically for Claude's production environment, including XML conventions, tool interfaces, product-specific behavior, and internal implementation guidance. While appropriate for Claude, much of that content provides little or no benefit when reused with other frontier LLMs.
