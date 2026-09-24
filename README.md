@@ -43,6 +43,8 @@ This project intentionally excludes Claude-specific implementation such as:
 * Storage and artifact management
 * Environment-specific implementation details
 
+The Claude-specific text this project strips is archived verbatim elsewhere, if you want to see what was removed rather than take the list on trust: [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) keeps dated recordings of Claude Code on Fable 5.1 (26,131 characters and 35 tool declarations interactively, 20,806 and 29 under `claude -p`), with the tool JSON beside each prompt and the command that reproduces it.
+
 ---
 
 ## What's Preserved
